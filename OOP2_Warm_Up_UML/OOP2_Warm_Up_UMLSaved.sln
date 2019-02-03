@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2_Warm_Up_UML", "OOP2_Warm_Up_UML\OOP2_Warm_Up_UML.csproj", "{BF88F95D-5442-41A7-A641-92610E49F3EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2_Warm_Up_UML", "OOP2_Warm_Up_UML.csproj", "{B398566A-75AC-48FD-9A12-BB21927F9FC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BF88F95D-5442-41A7-A641-92610E49F3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BF88F95D-5442-41A7-A641-92610E49F3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BF88F95D-5442-41A7-A641-92610E49F3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BF88F95D-5442-41A7-A641-92610E49F3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B398566A-75AC-48FD-9A12-BB21927F9FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B398566A-75AC-48FD-9A12-BB21927F9FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B398566A-75AC-48FD-9A12-BB21927F9FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B398566A-75AC-48FD-9A12-BB21927F9FC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {34CBE879-C7BE-4D24-947D-BC8A07E221E3}
+		SolutionGuid = {53A14857-5B17-4FD3-AF37-2A94CDC482B6}
 	EndGlobalSection
 EndGlobal
